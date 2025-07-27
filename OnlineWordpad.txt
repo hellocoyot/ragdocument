@@ -1,26 +1,39 @@
-🧠 About Coyot AI
+About Coyot AI
 
-Coyot AI is an experiential learning platform on a mission to make Artificial Intelligence accessible, practical, and inspiring for students across schools and colleges. We help students not just learn AI—but experience its real-world power through hands-on projects, live demos, and domain-specific applications.
+Coyot AI is an experiential learning platform founded in January 2025 by a passionate team of engineers and educators — Mohammed Favas, Sainudheen, and Shyamila — with a bold mission: to make Artificial Intelligence accessible, hands-on, and inspiring for every student, from classrooms to campuses.
 
-Founded by industry veterans and AI engineers from Fortune 4 companies, Coyot AI bridges the gap between classroom theory and industry reality. Our programs are carefully crafted to help students build job-ready portfolios, understand cutting-edge tools like GPT, Claude, and Gemini, and prepare for top roles in the AI ecosystem.
+We go beyond just teaching AI. At Coyot AI, students experience its real-world power through interactive workshops, live demos, and industry-grade projects. Whether it’s building your own chatbot, understanding how ChatGPT works, or exploring how AI can transform medicine, law, or media — we make future tech tangible.
+
+Founded by industry professionals from Fortune 4 companies, Coyot AI bridges the critical gap between academic learning and industry skills. We equip students with the tools, thinking, and portfolio to thrive in an AI-driven world.
 
 🌍 What We Do
 
-🔹 AI Workshops for Schools (Grade 3 to 12):
-We conduct captivating AI and tech workshops for school students—combining storytelling, interactive demos, and ethical tech conversations. Students explore how AI powers apps, games, art, medicine, and more—without needing coding knowledge.
+🔹 AI Workshops for Schools (Grade 3 to 12)
+We conduct engaging and age-appropriate workshops for school students, filled with stories, interactive AI demos, and creativity. Students explore how AI powers daily life — from chatbots and games to health apps and art — all without needing coding skills.
 
-🔹 GenAI & LLM Workshops for Colleges (B.Tech, BCA, MCA & CS/IT Departments):
-We offer one-day, high-impact workshops that take students from zero to project-ready. They learn prompt engineering, deploy LLM-based apps, and build live projects like AI chatbots and autonomous agents—guided by real-world AI professionals.
+🔹 GenAI & LLM Workshops for Colleges (B.Tech, BCA, MCA & CS/IT Streams)
+For college students, we deliver powerful, one-day hands-on sessions on GenAI and Large Language Models (LLMs). Students master prompt engineering, build AI apps, and create real-world projects using cutting-edge tools like ChatGPT, Claude, Gemini, Hugging Face, and LangChain — all guided by engineers working in the field.
 
-🔹 Domain-Specific AI Experiences:
-From medicine to law, media to finance—Coyot AI offers tailored sessions that demonstrate how AI transforms every field. Students from non-technical backgrounds also get to explore how to work alongside AI in their own careers.
+🔹 Domain-Specific AI Experiences
+AI isn’t just for coders. We offer tailored workshops for students from fields like medicine, law, finance, psychology, media, and more — helping them understand how AI integrates into their career paths and how they can work with it, not be replaced by it.
 
-🔹 Portfolio-First Approach:
-Every workshop is built around tangible outcomes—students build real projects, host them on GitHub, and showcase them in resumes and portfolios that stand out to recruiters and internship providers.
+🔹 Portfolio-First Learning
+Every session is built around outcomes. Students walk away with deployable AI projects, GitHub portfolios, and content they can proudly feature in resumes or internship applications. We believe projects speak louder than certificates.
 
-🔹 No-Code AI Innovation:
-We empower students to innovate using no-code and low-code AI tools, helping them become AI creators—not just consumers—regardless of their programming background.
+🔹 No-Code AI Innovation
+Whether or not you know programming, we help you build with AI. Using no-code and low-code tools, students can innovate and solve real problems with AI — making creativity the only prerequisite.
 
-🌟 Our Belief
+✨ Why Coyot AI?
 
-We believe that AI is not just for coders. It’s for dreamers, doctors, designers, engineers, and every curious mind. Coyot AI exists to spark that curiosity, ignite confidence, and make students future-ready in an AI-powered world.
+✅ Founded by AI professionals from Fortune 4 companies
+✅ Hands-on, project-based learning — not boring slides
+✅ Focus on real-world tools, roles, and outcomes
+✅ Designed for absolute beginners to advanced learners
+✅ Ideal for school & college innovation programs (NAAC, NBA, IIC, etc.)
+
+📞 Contact Us
+Let’s bring the future of AI to your students — today.
+
+📍Contact Number: +91 7907450823
+📧 Email:hellocoyot@gmail.com
+🌐 Website: www.coyotai.com
